@@ -7,9 +7,9 @@ Partiendo del ejercicio anterior crea una **calculadora sencilla** en JavaFX uti
 
 ## Parte 2
 
-Mejora la calculadora anterior para que admita la utilización de **decimales** con un botón para ello, así como estudiar cómo mejorar su **usabilidad**. 
+Mejora la calculadora anterior para que admita la utilización de **decimales** con un botón para ello.
 
-- Agrégale así mismo un estilo y colores mediante *CSS* para mejorar su apariencia. Se adjunta un ejemplo, pero no lo copies literalmente.  
+- Agrégale así mismo un estilo y colores mediante *CSS* para mejorar su apariencia y **usabilidad/accesibilidad**. Se adjunta un ejemplo (no copiar literalmente, usar un estilo propio basándose en la accesibilidad ya estudiada)
 
 - Deberá de tener también un botón de **memoria** de resultados y otro para cambiar el **signo** de los operandos.
 
