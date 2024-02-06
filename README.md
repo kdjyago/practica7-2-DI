@@ -11,7 +11,8 @@ Partiendo del ejercicio anterior crea una **calculadora sencilla** en JavaFX uti
 
 Mejora la calculadora anterior aplicándole estilos CSS para mejorar su apariencia y para que admita la utilización de **decimales** con un botón para ello:
 
-- Agrega estilo y colores mediante *CSS*, tendiendo en cuenta su **usabilidad/accesibilidad**. Se adjunta una captura de ejemplo (no copiar literalmente, usar un estilo propio basándose en la accesibilidad ya estudiada)
+- Agrega estilo y colores mediante *CSS* así como un icono de aplicación, tendiendo siempre en cuenta su **usabilidad/accesibilidad**. 
+Se adjunta una captura de ejemplo (no copiar literalmente, usar un estilo propio basándose en la accesibilidad ya estudiada)
 
 - Agrega un botón para el tratamiento de números decimales.
 
